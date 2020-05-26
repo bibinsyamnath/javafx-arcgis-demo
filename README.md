@@ -1,6 +1,6 @@
 # Covid 19 World Map
 
-![screebshot](/screenshots/screenshot.png)
+![screenshot](/screenshots/screenshot.png)
 
 >Created/Tested with
 
